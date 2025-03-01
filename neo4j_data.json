@@ -2,47 +2,47 @@
   {
     "persons": [
       {
-        "id": "113ff54c-071d-4401-b8f9-039a8cb27333",
+        "id": "a179cfb0-fcf3-4194-931b-65654d53a225",
         "fullname": "Ascenzo Iannotti",
         "firstname": "Ascenzo",
         "lastname": "Iannotti",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": "It was his 3rd marriage"
       },
       {
-        "id": "15c971fa-cb5d-47a2-8cde-c073befd5bf6",
+        "id": "d891bd71-2ae3-4678-89cd-2aefe45016a9",
         "fullname": "Anna Berardina De Santis",
         "firstname": "Anna Berardina",
         "lastname": "De Santis",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "b3fe4f4d-9ceb-46b0-bed0-98e3af77d1fd",
+        "id": "c63ed649-f969-402a-95fd-bdcd88bace4d",
         "fullname": "Giuseppe Iannotti",
         "firstname": "Giuseppe",
         "lastname": "Iannotti",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "2b5f2d44-335d-47ad-a4d2-f758cdadccf8",
+        "id": "8f11282e-6cd3-4a8b-ac9f-2b7982940985",
         "fullname": "Teresa Buttari",
         "firstname": "Teresa",
         "lastname": "Buttari",
-        "alias_firstname": "",
+        "alias_firstname": "Nan",
         "alias_lastname": "Butta",
         "gender": "female",
         "location": "",
@@ -50,24 +50,24 @@
         "notes": ""
       },
       {
-        "id": "af7499ff-fbb0-4936-be61-40e15e60d2c7",
+        "id": "998d2419-d0bf-42b3-8d94-8bb34378a4ee",
         "fullname": "Nicola De Santis",
         "firstname": "Nicola",
         "lastname": "De Santis",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "401496ab-d595-4606-9373-45c30563bb24",
+        "id": "8a3e2138-db3a-4f6b-bd3d-fb47091f28c5",
         "fullname": "Maddalena Del Rosso",
         "firstname": "Maddalena",
         "lastname": "Del Rosso",
         "alias_firstname": "Madda",
-        "alias_lastname": "",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
@@ -76,50 +76,50 @@
     ],
     "relationships": [
       {
-        "from_id": "113ff54c-071d-4401-b8f9-039a8cb27333",
-        "to_id": "15c971fa-cb5d-47a2-8cde-c073befd5bf6",
+        "from_id": "a179cfb0-fcf3-4194-931b-65654d53a225",
+        "to_id": "d891bd71-2ae3-4678-89cd-2aefe45016a9",
         "type": "MARRIED_TO",
         "date": "2020-07-30 1821"
       },
       {
-        "from_id": "15c971fa-cb5d-47a2-8cde-c073befd5bf6",
-        "to_id": "113ff54c-071d-4401-b8f9-039a8cb27333",
+        "from_id": "d891bd71-2ae3-4678-89cd-2aefe45016a9",
+        "to_id": "a179cfb0-fcf3-4194-931b-65654d53a225",
         "type": "MARRIED_TO",
         "date": "2020-07-30 1821"
       },
       {
-        "from_id": "113ff54c-071d-4401-b8f9-039a8cb27333",
-        "to_id": "b3fe4f4d-9ceb-46b0-bed0-98e3af77d1fd",
+        "from_id": "a179cfb0-fcf3-4194-931b-65654d53a225",
+        "to_id": "c63ed649-f969-402a-95fd-bdcd88bace4d",
         "type": "SON_OF",
         "date": null
       },
       {
-        "from_id": "113ff54c-071d-4401-b8f9-039a8cb27333",
-        "to_id": "2b5f2d44-335d-47ad-a4d2-f758cdadccf8",
+        "from_id": "a179cfb0-fcf3-4194-931b-65654d53a225",
+        "to_id": "8f11282e-6cd3-4a8b-ac9f-2b7982940985",
         "type": "SON_OF",
         "date": null
       },
       {
-        "from_id": "15c971fa-cb5d-47a2-8cde-c073befd5bf6",
-        "to_id": "af7499ff-fbb0-4936-be61-40e15e60d2c7",
+        "from_id": "d891bd71-2ae3-4678-89cd-2aefe45016a9",
+        "to_id": "998d2419-d0bf-42b3-8d94-8bb34378a4ee",
         "type": "DAUGHTER_OF",
         "date": null
       },
       {
-        "from_id": "15c971fa-cb5d-47a2-8cde-c073befd5bf6",
-        "to_id": "401496ab-d595-4606-9373-45c30563bb24",
+        "from_id": "d891bd71-2ae3-4678-89cd-2aefe45016a9",
+        "to_id": "8a3e2138-db3a-4f6b-bd3d-fb47091f28c5",
         "type": "DAUGHTER_OF",
         "date": null
       },
       {
-        "from_id": "b3fe4f4d-9ceb-46b0-bed0-98e3af77d1fd",
-        "to_id": "2b5f2d44-335d-47ad-a4d2-f758cdadccf8",
+        "from_id": "c63ed649-f969-402a-95fd-bdcd88bace4d",
+        "to_id": "8f11282e-6cd3-4a8b-ac9f-2b7982940985",
         "type": "MARRIED_TO",
         "date": null
       },
       {
-        "from_id": "af7499ff-fbb0-4936-be61-40e15e60d2c7",
-        "to_id": "401496ab-d595-4606-9373-45c30563bb24",
+        "from_id": "998d2419-d0bf-42b3-8d94-8bb34378a4ee",
+        "to_id": "8a3e2138-db3a-4f6b-bd3d-fb47091f28c5",
         "type": "MARRIED_TO",
         "date": null
       }
@@ -128,198 +128,72 @@
   {
     "persons": [
       {
-        "id": "6f8fcadf-915d-40a8-af02-2b318c006114",
-        "fullname": "Anselmo Lolli",
-        "firstname": "Anselmo",
-        "lastname": "Lolli",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "id": "4df1187f-d6db-4003-ba20-ba68c8e90325",
+        "fullname": "Vincenzo Iannotti",
+        "firstname": "Vincenzo",
+        "lastname": "Iannotti",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
-        "notes": "They were living before in Parma"
-      },
-      {
-        "id": "db177cc0-ec60-451a-a7fb-c76e2cb646a4",
-        "fullname": "Anna Giuseppa Collalto",
-        "firstname": "Anna Giuseppa",
-        "lastname": "Collalto",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": "They were living before in Parma"
-      },
-      {
-        "id": "7867e352-b561-41a4-9c19-06f0e0d491bb",
-        "fullname": "Andrea Lolli",
-        "firstname": "Andrea",
-        "lastname": "Lolli",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "before 09 Dec 1821",
         "notes": ""
       },
       {
-        "id": "bbeaef2d-7448-4f50-b75d-4b9b598b3a3c",
-        "fullname": "Camilla Liberati",
-        "firstname": "Camilla",
-        "lastname": "Liberati",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "id": "d22bd5c8-b6fb-493c-bdcc-2aa725a7710f",
+        "fullname": "Alessandra Troiana",
+        "firstname": "Alessandra",
+        "lastname": "Troiana",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "0499fb0e-7a7a-41ce-807e-4377b4f4cc57",
-        "fullname": "Gabriele Collalto",
-        "firstname": "Gabriele",
-        "lastname": "Collalto",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "before 09 Dec 1821",
-        "notes": ""
-      },
-      {
-        "id": "de44672f-9710-46f3-97b2-954954095c6d",
-        "fullname": "Elisabetta Savina",
-        "firstname": "Elisabetta",
-        "lastname": "Savina",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "before 09 Dec 1821",
-        "notes": ""
-      }
-    ],
-    "relationships": [
-      {
-        "from_id": "6f8fcadf-915d-40a8-af02-2b318c006114",
-        "to_id": "db177cc0-ec60-451a-a7fb-c76e2cb646a4",
-        "type": "MARRIED_TO",
-        "date": "2020-12-09 1821"
-      },
-      {
-        "from_id": "db177cc0-ec60-451a-a7fb-c76e2cb646a4",
-        "to_id": "6f8fcadf-915d-40a8-af02-2b318c006114",
-        "type": "MARRIED_TO",
-        "date": "2020-12-09 1821"
-      },
-      {
-        "from_id": "6f8fcadf-915d-40a8-af02-2b318c006114",
-        "to_id": "7867e352-b561-41a4-9c19-06f0e0d491bb",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "6f8fcadf-915d-40a8-af02-2b318c006114",
-        "to_id": "bbeaef2d-7448-4f50-b75d-4b9b598b3a3c",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "db177cc0-ec60-451a-a7fb-c76e2cb646a4",
-        "to_id": "0499fb0e-7a7a-41ce-807e-4377b4f4cc57",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "db177cc0-ec60-451a-a7fb-c76e2cb646a4",
-        "to_id": "de44672f-9710-46f3-97b2-954954095c6d",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "7867e352-b561-41a4-9c19-06f0e0d491bb",
-        "to_id": "bbeaef2d-7448-4f50-b75d-4b9b598b3a3c",
-        "type": "MARRIED_TO",
-        "date": null
-      },
-      {
-        "from_id": "0499fb0e-7a7a-41ce-807e-4377b4f4cc57",
-        "to_id": "de44672f-9710-46f3-97b2-954954095c6d",
-        "type": "MARRIED_TO",
-        "date": null
-      }
-    ]
-  },
-  {
-    "persons": [
-      {
-        "id": "21a2503e-f720-47f3-913a-5dabbec1cabf",
-        "fullname": "Francesco Paciotti",
-        "firstname": "Francesco",
-        "lastname": "Paciotti",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "id": "cfd52801-1246-4179-a264-339077dad1fb",
+        "fullname": "Sereno Iannotti",
+        "firstname": "Sereno",
+        "lastname": "Iannotti",
+        "alias_firstname": "Giuseppe, Sereno, Marco",
+        "alias_lastname": "Proietto, Iannotti, De Santis",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "e9d62b4c-1028-4461-8e17-42f1ed552268",
-        "fullname": "Maria Lolli",
-        "firstname": "Maria",
-        "lastname": "Lolli",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "id": "a758584f-ddbf-40bc-bf33-a6d447015724",
+        "fullname": "Teresa Butta",
+        "firstname": "Teresa",
+        "lastname": "Butta",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "386b5d6e-a2c8-4950-8736-2cb671812e45",
-        "fullname": "Pietro Paciotti",
-        "firstname": "Pietro",
-        "lastname": "Paciotti",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "id": "5b612775-7a1a-4445-a5bc-fb65ca5a646a",
+        "fullname": "Mario Giordano Troiana",
+        "firstname": "Mario Giordano",
+        "lastname": "Troiana",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "7fe5abb9-14a5-40a4-a94a-871611069d32",
-        "fullname": "Giacinta Di Simone",
-        "firstname": "Giacinta",
-        "lastname": "Di Simone",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "1ab4d684-0b47-44ea-aeac-c97248c06a4b",
-        "fullname": "Costanzo Lolli",
-        "firstname": "Costanzo",
-        "lastname": "Lolli",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": "Costanzo was bord in 1789"
-      },
-      {
-        "id": "8773679d-81b5-4cbb-aa87-bd03ef981cfd",
+        "id": "2a9d0d49-12ca-4eeb-bc12-a286a11a29fa",
         "fullname": "Domenica Colella",
         "firstname": "Domenica",
         "lastname": "Colella",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
@@ -328,50 +202,50 @@
     ],
     "relationships": [
       {
-        "from_id": "21a2503e-f720-47f3-913a-5dabbec1cabf",
-        "to_id": "e9d62b4c-1028-4461-8e17-42f1ed552268",
+        "from_id": "4df1187f-d6db-4003-ba20-ba68c8e90325",
+        "to_id": "d22bd5c8-b6fb-493c-bdcc-2aa725a7710f",
         "type": "MARRIED_TO",
-        "date": "2020-05-20 1821"
+        "date": "2020-07-30 1821"
       },
       {
-        "from_id": "e9d62b4c-1028-4461-8e17-42f1ed552268",
-        "to_id": "21a2503e-f720-47f3-913a-5dabbec1cabf",
+        "from_id": "d22bd5c8-b6fb-493c-bdcc-2aa725a7710f",
+        "to_id": "4df1187f-d6db-4003-ba20-ba68c8e90325",
         "type": "MARRIED_TO",
-        "date": "2020-05-20 1821"
+        "date": "2020-07-30 1821"
       },
       {
-        "from_id": "21a2503e-f720-47f3-913a-5dabbec1cabf",
-        "to_id": "386b5d6e-a2c8-4950-8736-2cb671812e45",
+        "from_id": "4df1187f-d6db-4003-ba20-ba68c8e90325",
+        "to_id": "cfd52801-1246-4179-a264-339077dad1fb",
         "type": "SON_OF",
         "date": null
       },
       {
-        "from_id": "21a2503e-f720-47f3-913a-5dabbec1cabf",
-        "to_id": "7fe5abb9-14a5-40a4-a94a-871611069d32",
+        "from_id": "4df1187f-d6db-4003-ba20-ba68c8e90325",
+        "to_id": "a758584f-ddbf-40bc-bf33-a6d447015724",
         "type": "SON_OF",
         "date": null
       },
       {
-        "from_id": "e9d62b4c-1028-4461-8e17-42f1ed552268",
-        "to_id": "1ab4d684-0b47-44ea-aeac-c97248c06a4b",
+        "from_id": "d22bd5c8-b6fb-493c-bdcc-2aa725a7710f",
+        "to_id": "5b612775-7a1a-4445-a5bc-fb65ca5a646a",
         "type": "DAUGHTER_OF",
         "date": null
       },
       {
-        "from_id": "e9d62b4c-1028-4461-8e17-42f1ed552268",
-        "to_id": "8773679d-81b5-4cbb-aa87-bd03ef981cfd",
+        "from_id": "d22bd5c8-b6fb-493c-bdcc-2aa725a7710f",
+        "to_id": "2a9d0d49-12ca-4eeb-bc12-a286a11a29fa",
         "type": "DAUGHTER_OF",
         "date": null
       },
       {
-        "from_id": "386b5d6e-a2c8-4950-8736-2cb671812e45",
-        "to_id": "7fe5abb9-14a5-40a4-a94a-871611069d32",
+        "from_id": "cfd52801-1246-4179-a264-339077dad1fb",
+        "to_id": "a758584f-ddbf-40bc-bf33-a6d447015724",
         "type": "MARRIED_TO",
         "date": null
       },
       {
-        "from_id": "1ab4d684-0b47-44ea-aeac-c97248c06a4b",
-        "to_id": "8773679d-81b5-4cbb-aa87-bd03ef981cfd",
+        "from_id": "5b612775-7a1a-4445-a5bc-fb65ca5a646a",
+        "to_id": "2a9d0d49-12ca-4eeb-bc12-a286a11a29fa",
         "type": "MARRIED_TO",
         "date": null
       }
@@ -380,72 +254,324 @@
   {
     "persons": [
       {
-        "id": "d6cd25cb-e463-4ac0-8620-6fe383e7dac8",
-        "fullname": "Giuseppe Pennazza",
-        "firstname": "Giuseppe",
-        "lastname": "Pennazza",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "id": "ba4d9b77-ef08-4e16-8e82-96c7fa4b2a6f",
+        "fullname": "Anselmo Lolli",
+        "firstname": "Anselmo",
+        "lastname": "Lolli",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "2e38f937-94ff-4f4f-b602-f8eee75b7522",
+        "id": "2faadfb7-7958-4a08-94cc-75bfdf427e01",
+        "fullname": "Anna Giuseppa Collalto",
+        "firstname": "Anna Giuseppa",
+        "lastname": "Collalto",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "female",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "9b63bbaf-bd67-4764-aaf6-e98a6e6e74ff",
+        "fullname": "Andrea Lolli",
+        "firstname": "Andrea",
+        "lastname": "Lolli",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "male",
+        "location": "",
+        "deceased": "before 09 Dec 1821",
+        "notes": ""
+      },
+      {
+        "id": "bb4ce796-0c82-4185-a7b8-06d5b642e8bf",
+        "fullname": "Camilla Liberati",
+        "firstname": "Camilla",
+        "lastname": "Liberati",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "female",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "f040767e-4300-4b40-8fbf-4e698c681307",
+        "fullname": "Gabriele Collalto",
+        "firstname": "Gabriele",
+        "lastname": "Collalto",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "male",
+        "location": "",
+        "deceased": "before 09 Dec 1821",
+        "notes": ""
+      },
+      {
+        "id": "6921580a-4095-4a29-b7be-aeed7f87fcfe",
+        "fullname": "Elisabetta Savina",
+        "firstname": "Elisabetta",
+        "lastname": "Savina",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "female",
+        "location": "",
+        "deceased": "before 09 Dec 1821",
+        "notes": ""
+      }
+    ],
+    "relationships": [
+      {
+        "from_id": "ba4d9b77-ef08-4e16-8e82-96c7fa4b2a6f",
+        "to_id": "2faadfb7-7958-4a08-94cc-75bfdf427e01",
+        "type": "MARRIED_TO",
+        "date": "2020-12-09 1821"
+      },
+      {
+        "from_id": "2faadfb7-7958-4a08-94cc-75bfdf427e01",
+        "to_id": "ba4d9b77-ef08-4e16-8e82-96c7fa4b2a6f",
+        "type": "MARRIED_TO",
+        "date": "2020-12-09 1821"
+      },
+      {
+        "from_id": "ba4d9b77-ef08-4e16-8e82-96c7fa4b2a6f",
+        "to_id": "9b63bbaf-bd67-4764-aaf6-e98a6e6e74ff",
+        "type": "SON_OF",
+        "date": null
+      },
+      {
+        "from_id": "ba4d9b77-ef08-4e16-8e82-96c7fa4b2a6f",
+        "to_id": "bb4ce796-0c82-4185-a7b8-06d5b642e8bf",
+        "type": "SON_OF",
+        "date": null
+      },
+      {
+        "from_id": "2faadfb7-7958-4a08-94cc-75bfdf427e01",
+        "to_id": "f040767e-4300-4b40-8fbf-4e698c681307",
+        "type": "DAUGHTER_OF",
+        "date": null
+      },
+      {
+        "from_id": "2faadfb7-7958-4a08-94cc-75bfdf427e01",
+        "to_id": "6921580a-4095-4a29-b7be-aeed7f87fcfe",
+        "type": "DAUGHTER_OF",
+        "date": null
+      },
+      {
+        "from_id": "9b63bbaf-bd67-4764-aaf6-e98a6e6e74ff",
+        "to_id": "bb4ce796-0c82-4185-a7b8-06d5b642e8bf",
+        "type": "MARRIED_TO",
+        "date": null
+      },
+      {
+        "from_id": "f040767e-4300-4b40-8fbf-4e698c681307",
+        "to_id": "6921580a-4095-4a29-b7be-aeed7f87fcfe",
+        "type": "MARRIED_TO",
+        "date": null
+      }
+    ]
+  },
+  {
+    "persons": [
+      {
+        "id": "6b502e92-83d6-458f-8606-1da3fe4669f5",
+        "fullname": "Francesco Paciotti",
+        "firstname": "Francesco",
+        "lastname": "Paciotti",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "male",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "cf302522-ae25-4bea-b5ec-f1f6add88856",
+        "fullname": "Maria Lolli",
+        "firstname": "Maria",
+        "lastname": "Lolli",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "female",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "09c33c75-53db-4050-961a-a4d85fdd00d3",
+        "fullname": "Pietro Paciotti",
+        "firstname": "Pietro",
+        "lastname": "Paciotti",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "male",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "acaf4bd2-4285-46c9-8787-327252f23ada",
+        "fullname": "Giacinta Di Simone",
+        "firstname": "Giacinta",
+        "lastname": "Di Simone",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "female",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "47f2b13d-5c65-4253-82ef-aae0454e118d",
+        "fullname": "Costanzo Lolli",
+        "firstname": "Costanzo",
+        "lastname": "Lolli",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "male",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "0b488976-03d6-40d0-98f5-3884266f20a8",
+        "fullname": "Domenica Colella",
+        "firstname": "Domenica",
+        "lastname": "Colella",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "female",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      }
+    ],
+    "relationships": [
+      {
+        "from_id": "6b502e92-83d6-458f-8606-1da3fe4669f5",
+        "to_id": "cf302522-ae25-4bea-b5ec-f1f6add88856",
+        "type": "MARRIED_TO",
+        "date": "2020-05-20 1821"
+      },
+      {
+        "from_id": "cf302522-ae25-4bea-b5ec-f1f6add88856",
+        "to_id": "6b502e92-83d6-458f-8606-1da3fe4669f5",
+        "type": "MARRIED_TO",
+        "date": "2020-05-20 1821"
+      },
+      {
+        "from_id": "6b502e92-83d6-458f-8606-1da3fe4669f5",
+        "to_id": "09c33c75-53db-4050-961a-a4d85fdd00d3",
+        "type": "SON_OF",
+        "date": null
+      },
+      {
+        "from_id": "6b502e92-83d6-458f-8606-1da3fe4669f5",
+        "to_id": "acaf4bd2-4285-46c9-8787-327252f23ada",
+        "type": "SON_OF",
+        "date": null
+      },
+      {
+        "from_id": "cf302522-ae25-4bea-b5ec-f1f6add88856",
+        "to_id": "47f2b13d-5c65-4253-82ef-aae0454e118d",
+        "type": "DAUGHTER_OF",
+        "date": null
+      },
+      {
+        "from_id": "cf302522-ae25-4bea-b5ec-f1f6add88856",
+        "to_id": "0b488976-03d6-40d0-98f5-3884266f20a8",
+        "type": "DAUGHTER_OF",
+        "date": null
+      },
+      {
+        "from_id": "09c33c75-53db-4050-961a-a4d85fdd00d3",
+        "to_id": "acaf4bd2-4285-46c9-8787-327252f23ada",
+        "type": "MARRIED_TO",
+        "date": null
+      },
+      {
+        "from_id": "47f2b13d-5c65-4253-82ef-aae0454e118d",
+        "to_id": "0b488976-03d6-40d0-98f5-3884266f20a8",
+        "type": "MARRIED_TO",
+        "date": null
+      }
+    ]
+  },
+  {
+    "persons": [
+      {
+        "id": "89ed187c-5067-4536-a745-7ddab41eac17",
+        "fullname": "Giuseppe Pennazza",
+        "firstname": "Giuseppe",
+        "lastname": "Pennazza",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
+        "gender": "male",
+        "location": "",
+        "deceased": "",
+        "notes": ""
+      },
+      {
+        "id": "07fffe96-80f5-4c62-90e1-a12351c793d4",
         "fullname": "Marianna Novelli",
         "firstname": "Marianna",
         "lastname": "Novelli",
         "alias_firstname": "Alfetta",
-        "alias_lastname": "",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
         "notes": "her name was Alfetta, then changed"
       },
       {
-        "id": "6228bb48-0a11-4fd6-a0de-54e7e9c1a497",
+        "id": "a0325462-c0e6-48b0-931b-72a0b844b873",
         "fullname": "Gennaro Pennazza",
         "firstname": "Gennaro",
         "lastname": "Pennazza",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "71cb6748-4910-46c9-a4ea-7b16f8bbfe9d",
+        "id": "22d31640-9308-441e-83f0-b6c56ec142e1",
         "fullname": "Gesualda Di Clemente",
         "firstname": "Gesualda",
         "lastname": "Di Clemente",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "c0962769-e684-4029-ba10-7b33394fa41a",
+        "id": "5c4d5e57-a588-43e8-88a2-1e5942ee19f0",
         "fullname": "Francesco Novelli",
         "firstname": "Francesco",
         "lastname": "Novelli",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "male",
         "location": "",
         "deceased": "",
         "notes": ""
       },
       {
-        "id": "735af420-8831-4a01-8cfc-df237f9dcbaf",
+        "id": "53923859-f3b8-4313-b83f-e5a83b071016",
         "fullname": "Maria Domenica Marianella",
         "firstname": "Maria Domenica",
         "lastname": "Marianella",
-        "alias_firstname": "",
-        "alias_lastname": "",
+        "alias_firstname": "Nan",
+        "alias_lastname": "Nan",
         "gender": "female",
         "location": "",
         "deceased": "",
@@ -454,806 +580,50 @@
     ],
     "relationships": [
       {
-        "from_id": "d6cd25cb-e463-4ac0-8620-6fe383e7dac8",
-        "to_id": "2e38f937-94ff-4f4f-b602-f8eee75b7522",
+        "from_id": "89ed187c-5067-4536-a745-7ddab41eac17",
+        "to_id": "07fffe96-80f5-4c62-90e1-a12351c793d4",
         "type": "MARRIED_TO",
         "date": "2020-01-21 1821"
       },
       {
-        "from_id": "2e38f937-94ff-4f4f-b602-f8eee75b7522",
-        "to_id": "d6cd25cb-e463-4ac0-8620-6fe383e7dac8",
+        "from_id": "07fffe96-80f5-4c62-90e1-a12351c793d4",
+        "to_id": "89ed187c-5067-4536-a745-7ddab41eac17",
         "type": "MARRIED_TO",
         "date": "2020-01-21 1821"
       },
       {
-        "from_id": "d6cd25cb-e463-4ac0-8620-6fe383e7dac8",
-        "to_id": "6228bb48-0a11-4fd6-a0de-54e7e9c1a497",
+        "from_id": "89ed187c-5067-4536-a745-7ddab41eac17",
+        "to_id": "a0325462-c0e6-48b0-931b-72a0b844b873",
         "type": "SON_OF",
         "date": null
       },
       {
-        "from_id": "d6cd25cb-e463-4ac0-8620-6fe383e7dac8",
-        "to_id": "71cb6748-4910-46c9-a4ea-7b16f8bbfe9d",
+        "from_id": "89ed187c-5067-4536-a745-7ddab41eac17",
+        "to_id": "22d31640-9308-441e-83f0-b6c56ec142e1",
         "type": "SON_OF",
         "date": null
       },
       {
-        "from_id": "2e38f937-94ff-4f4f-b602-f8eee75b7522",
-        "to_id": "c0962769-e684-4029-ba10-7b33394fa41a",
+        "from_id": "07fffe96-80f5-4c62-90e1-a12351c793d4",
+        "to_id": "5c4d5e57-a588-43e8-88a2-1e5942ee19f0",
         "type": "DAUGHTER_OF",
         "date": null
       },
       {
-        "from_id": "2e38f937-94ff-4f4f-b602-f8eee75b7522",
-        "to_id": "735af420-8831-4a01-8cfc-df237f9dcbaf",
+        "from_id": "07fffe96-80f5-4c62-90e1-a12351c793d4",
+        "to_id": "53923859-f3b8-4313-b83f-e5a83b071016",
         "type": "DAUGHTER_OF",
         "date": null
       },
       {
-        "from_id": "6228bb48-0a11-4fd6-a0de-54e7e9c1a497",
-        "to_id": "71cb6748-4910-46c9-a4ea-7b16f8bbfe9d",
+        "from_id": "a0325462-c0e6-48b0-931b-72a0b844b873",
+        "to_id": "22d31640-9308-441e-83f0-b6c56ec142e1",
         "type": "MARRIED_TO",
         "date": null
       },
       {
-        "from_id": "c0962769-e684-4029-ba10-7b33394fa41a",
-        "to_id": "735af420-8831-4a01-8cfc-df237f9dcbaf",
-        "type": "MARRIED_TO",
-        "date": null
-      }
-    ]
-  },
-  {
-    "persons": [
-      {
-        "id": "fd603fde-c85c-4dc4-8c26-b7f059ce9f8b",
-        "fullname": "Giacomo Rodorigo",
-        "firstname": "Giacomo",
-        "lastname": "Rodorigo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "2d670832-12ef-4d46-bbe4-f5f77ec3dcff",
-        "fullname": "Aurora Donsante",
-        "firstname": "Aurora",
-        "lastname": "Donsante",
-        "alias_firstname": "Angela, Cecilia",
-        "alias_lastname": "Proietta, De santis",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": "Named orphan as Angela Proietta, later she went by Aurora Donsant, her 1856 morte lists Cecilia de Santis"
-      },
-      {
-        "id": "4f84749d-5752-45bb-901b-5a52d175653f",
-        "fullname": "Felice Rodorigo",
-        "firstname": "Felice",
-        "lastname": "Rodorigo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "b8c18278-d001-49c1-9947-93029833cd76",
-        "fullname": "Rosa Di Crescenzo",
-        "firstname": "Rosa",
-        "lastname": "Di Crescenzo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "829d59ed-06b8-48ae-b5ee-19a9de7afd4d",
-        "fullname": "Arcangelo Donsante",
-        "firstname": "Arcangelo",
-        "lastname": "Donsante",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "f332553b-612b-4049-b484-586366651e49",
-        "fullname": "Clementina Cosimo",
-        "firstname": "Clementina",
-        "lastname": "Cosimo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      }
-    ],
-    "relationships": [
-      {
-        "from_id": "fd603fde-c85c-4dc4-8c26-b7f059ce9f8b",
-        "to_id": "2d670832-12ef-4d46-bbe4-f5f77ec3dcff",
-        "type": "MARRIED_TO",
-        "date": "2020-11-25 1821"
-      },
-      {
-        "from_id": "2d670832-12ef-4d46-bbe4-f5f77ec3dcff",
-        "to_id": "fd603fde-c85c-4dc4-8c26-b7f059ce9f8b",
-        "type": "MARRIED_TO",
-        "date": "2020-11-25 1821"
-      },
-      {
-        "from_id": "fd603fde-c85c-4dc4-8c26-b7f059ce9f8b",
-        "to_id": "4f84749d-5752-45bb-901b-5a52d175653f",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "fd603fde-c85c-4dc4-8c26-b7f059ce9f8b",
-        "to_id": "b8c18278-d001-49c1-9947-93029833cd76",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "2d670832-12ef-4d46-bbe4-f5f77ec3dcff",
-        "to_id": "829d59ed-06b8-48ae-b5ee-19a9de7afd4d",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "2d670832-12ef-4d46-bbe4-f5f77ec3dcff",
-        "to_id": "f332553b-612b-4049-b484-586366651e49",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "4f84749d-5752-45bb-901b-5a52d175653f",
-        "to_id": "b8c18278-d001-49c1-9947-93029833cd76",
-        "type": "MARRIED_TO",
-        "date": null
-      },
-      {
-        "from_id": "829d59ed-06b8-48ae-b5ee-19a9de7afd4d",
-        "to_id": "f332553b-612b-4049-b484-586366651e49",
-        "type": "MARRIED_TO",
-        "date": null
-      }
-    ]
-  },
-  {
-    "persons": [
-      {
-        "id": "e4faa2ad-00f8-4ca0-b6a1-a2c9a7ca93bd",
-        "fullname": "Giuseppe Palermo",
-        "firstname": "Giuseppe",
-        "lastname": "Palermo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "Lago",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "4e458d30-b7bf-46e1-a54d-6fd1fb7d4ab1",
-        "fullname": "Caterina Di Renzo",
-        "firstname": "Caterina",
-        "lastname": "Di Renzo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "d6244089-cd3f-4a60-9847-58a65730899a",
-        "fullname": "Ubaldo Palermo",
-        "firstname": "Ubaldo",
-        "lastname": "Palermo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "before 12 Dec 1821",
-        "notes": ""
-      },
-      {
-        "id": "5fb25f24-fbcf-498b-87f5-34371053f672",
-        "fullname": "Vittoria Gatto",
-        "firstname": "Vittoria",
-        "lastname": "Gatto",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "74599bb5-bef8-4467-8dc6-e48621aa8821",
-        "fullname": "Antonio Di Renzo",
-        "firstname": "Antonio",
-        "lastname": "Di Renzo",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "daaa186a-d411-4c3a-8878-c6e11bf5c389",
-        "fullname": "Felicia Di Pietro",
-        "firstname": "Felicia",
-        "lastname": "Di Pietro",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      }
-    ],
-    "relationships": [
-      {
-        "from_id": "e4faa2ad-00f8-4ca0-b6a1-a2c9a7ca93bd",
-        "to_id": "4e458d30-b7bf-46e1-a54d-6fd1fb7d4ab1",
-        "type": "MARRIED_TO",
-        "date": "2020-12-12 1821"
-      },
-      {
-        "from_id": "4e458d30-b7bf-46e1-a54d-6fd1fb7d4ab1",
-        "to_id": "e4faa2ad-00f8-4ca0-b6a1-a2c9a7ca93bd",
-        "type": "MARRIED_TO",
-        "date": "2020-12-12 1821"
-      },
-      {
-        "from_id": "e4faa2ad-00f8-4ca0-b6a1-a2c9a7ca93bd",
-        "to_id": "d6244089-cd3f-4a60-9847-58a65730899a",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "e4faa2ad-00f8-4ca0-b6a1-a2c9a7ca93bd",
-        "to_id": "5fb25f24-fbcf-498b-87f5-34371053f672",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "4e458d30-b7bf-46e1-a54d-6fd1fb7d4ab1",
-        "to_id": "74599bb5-bef8-4467-8dc6-e48621aa8821",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "4e458d30-b7bf-46e1-a54d-6fd1fb7d4ab1",
-        "to_id": "daaa186a-d411-4c3a-8878-c6e11bf5c389",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "d6244089-cd3f-4a60-9847-58a65730899a",
-        "to_id": "5fb25f24-fbcf-498b-87f5-34371053f672",
-        "type": "MARRIED_TO",
-        "date": null
-      },
-      {
-        "from_id": "74599bb5-bef8-4467-8dc6-e48621aa8821",
-        "to_id": "daaa186a-d411-4c3a-8878-c6e11bf5c389",
-        "type": "MARRIED_TO",
-        "date": null
-      }
-    ]
-  },
-  {
-    "persons": [
-      {
-        "id": "72c00cd3-267a-4c86-8ef5-b22ef91d6a65",
-        "fullname": "Giuseppe Buttari",
-        "firstname": "Giuseppe",
-        "lastname": "Buttari",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "d8617d9d-3dc0-4e30-ab53-7f5bce201bae",
-        "fullname": "Francesca Pennazza",
-        "firstname": "Francesca",
-        "lastname": "Pennazza",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "8341f18d-afbe-4d2e-bff1-921a3e86036c",
-        "fullname": "Feliciantonio Buttari",
-        "firstname": "Feliciantonio",
-        "lastname": "Buttari",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "c5ab1145-1031-4181-92e1-fa90cca2b908",
-        "fullname": "Caterina Iacoboni",
-        "firstname": "Caterina",
-        "lastname": "Iacoboni",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "6d1002e3-372c-4abe-9b57-0682c1c577c9",
-        "fullname": "Gennaro Pennazza",
-        "firstname": "Gennaro",
-        "lastname": "Pennazza",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "before 22 Dec 1821",
-        "notes": ""
-      },
-      {
-        "id": "93cc95bb-bac2-4676-921a-55a9efe51539",
-        "fullname": "Gesualda Di Clemente",
-        "firstname": "Gesualda",
-        "lastname": "Di Clemente",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      }
-    ],
-    "relationships": [
-      {
-        "from_id": "72c00cd3-267a-4c86-8ef5-b22ef91d6a65",
-        "to_id": "d8617d9d-3dc0-4e30-ab53-7f5bce201bae",
-        "type": "MARRIED_TO",
-        "date": "2020-12-22 1821"
-      },
-      {
-        "from_id": "d8617d9d-3dc0-4e30-ab53-7f5bce201bae",
-        "to_id": "72c00cd3-267a-4c86-8ef5-b22ef91d6a65",
-        "type": "MARRIED_TO",
-        "date": "2020-12-22 1821"
-      },
-      {
-        "from_id": "72c00cd3-267a-4c86-8ef5-b22ef91d6a65",
-        "to_id": "8341f18d-afbe-4d2e-bff1-921a3e86036c",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "72c00cd3-267a-4c86-8ef5-b22ef91d6a65",
-        "to_id": "c5ab1145-1031-4181-92e1-fa90cca2b908",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "d8617d9d-3dc0-4e30-ab53-7f5bce201bae",
-        "to_id": "6d1002e3-372c-4abe-9b57-0682c1c577c9",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "d8617d9d-3dc0-4e30-ab53-7f5bce201bae",
-        "to_id": "93cc95bb-bac2-4676-921a-55a9efe51539",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "8341f18d-afbe-4d2e-bff1-921a3e86036c",
-        "to_id": "c5ab1145-1031-4181-92e1-fa90cca2b908",
-        "type": "MARRIED_TO",
-        "date": null
-      },
-      {
-        "from_id": "6d1002e3-372c-4abe-9b57-0682c1c577c9",
-        "to_id": "93cc95bb-bac2-4676-921a-55a9efe51539",
-        "type": "MARRIED_TO",
-        "date": null
-      }
-    ]
-  },
-  {
-    "persons": [
-      {
-        "id": "845df2ba-042d-4651-97dc-6d17445620f9",
-        "fullname": "Michelangelo Salvucci",
-        "firstname": "Michelangelo",
-        "lastname": "Salvucci",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "f493ce42-a397-4d4d-ba6e-e37c97681573",
-        "fullname": "Angela Nicola Di Clemente",
-        "firstname": "Angela Nicola",
-        "lastname": "Di Clemente",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "ece1134a-5c37-4ddc-8711-d45db8db6b3a",
-        "fullname": "Felice Salvucci",
-        "firstname": "Felice",
-        "lastname": "Salvucci",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "be40a4d0-9870-4ab2-bcab-f65e7a93cc9c",
-        "fullname": "Maria Felice Paciotti",
-        "firstname": "Maria Felice",
-        "lastname": "Paciotti",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "f6122647-7c0f-4c58-84d4-4b12367c20ae",
-        "fullname": "Pasquale Di Clemente",
-        "firstname": "Pasquale",
-        "lastname": "Di Clemente",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "fb36cbd0-7e61-4541-a0b1-6441e6472c91",
-        "fullname": "Maria Sorge",
-        "firstname": "Maria",
-        "lastname": "Sorge",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      }
-    ],
-    "relationships": [
-      {
-        "from_id": "845df2ba-042d-4651-97dc-6d17445620f9",
-        "to_id": "f493ce42-a397-4d4d-ba6e-e37c97681573",
-        "type": "MARRIED_TO",
-        "date": "2020-12-22 1821"
-      },
-      {
-        "from_id": "f493ce42-a397-4d4d-ba6e-e37c97681573",
-        "to_id": "845df2ba-042d-4651-97dc-6d17445620f9",
-        "type": "MARRIED_TO",
-        "date": "2020-12-22 1821"
-      },
-      {
-        "from_id": "845df2ba-042d-4651-97dc-6d17445620f9",
-        "to_id": "ece1134a-5c37-4ddc-8711-d45db8db6b3a",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "845df2ba-042d-4651-97dc-6d17445620f9",
-        "to_id": "be40a4d0-9870-4ab2-bcab-f65e7a93cc9c",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "f493ce42-a397-4d4d-ba6e-e37c97681573",
-        "to_id": "f6122647-7c0f-4c58-84d4-4b12367c20ae",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "f493ce42-a397-4d4d-ba6e-e37c97681573",
-        "to_id": "fb36cbd0-7e61-4541-a0b1-6441e6472c91",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "ece1134a-5c37-4ddc-8711-d45db8db6b3a",
-        "to_id": "be40a4d0-9870-4ab2-bcab-f65e7a93cc9c",
-        "type": "MARRIED_TO",
-        "date": null
-      },
-      {
-        "from_id": "f6122647-7c0f-4c58-84d4-4b12367c20ae",
-        "to_id": "fb36cbd0-7e61-4541-a0b1-6441e6472c91",
-        "type": "MARRIED_TO",
-        "date": null
-      }
-    ]
-  },
-  {
-    "persons": [
-      {
-        "id": "4c003443-5d57-4e5b-84e2-5eb25bfbe0ad",
-        "fullname": "Pasquale Gallese",
-        "firstname": "Pasquale",
-        "lastname": "Gallese",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "16553747-2687-4056-bf5a-b99ed25a6a9a",
-        "fullname": "Petronilla Ricci",
-        "firstname": "Petronilla",
-        "lastname": "Ricci",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "103fb0cc-7272-44e4-9e6b-daf8dc60fa51",
-        "fullname": "Vincenzo Gallese",
-        "firstname": "Vincenzo",
-        "lastname": "Gallese",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "before 22 Sep 1821",
-        "notes": ""
-      },
-      {
-        "id": "6dacc9ed-a10e-4442-9b3d-4e0d07c057e4",
-        "fullname": "Loreta Spera",
-        "firstname": "Loreta",
-        "lastname": "Spera",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "before 22 Sep 1821",
-        "notes": ""
-      },
-      {
-        "id": "ede64ebd-7176-4004-a008-24a93f4a224c",
-        "fullname": "Bartolomeo Ricci",
-        "firstname": "Bartolomeo",
-        "lastname": "Ricci",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "01f204f3-3f75-4503-ac94-95f5fc61c43f",
-        "fullname": "Bernardina Lolli",
-        "firstname": "Bernardina",
-        "lastname": "Lolli",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      }
-    ],
-    "relationships": [
-      {
-        "from_id": "4c003443-5d57-4e5b-84e2-5eb25bfbe0ad",
-        "to_id": "16553747-2687-4056-bf5a-b99ed25a6a9a",
-        "type": "MARRIED_TO",
-        "date": "2020-09-22 1821"
-      },
-      {
-        "from_id": "16553747-2687-4056-bf5a-b99ed25a6a9a",
-        "to_id": "4c003443-5d57-4e5b-84e2-5eb25bfbe0ad",
-        "type": "MARRIED_TO",
-        "date": "2020-09-22 1821"
-      },
-      {
-        "from_id": "4c003443-5d57-4e5b-84e2-5eb25bfbe0ad",
-        "to_id": "103fb0cc-7272-44e4-9e6b-daf8dc60fa51",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "4c003443-5d57-4e5b-84e2-5eb25bfbe0ad",
-        "to_id": "6dacc9ed-a10e-4442-9b3d-4e0d07c057e4",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "16553747-2687-4056-bf5a-b99ed25a6a9a",
-        "to_id": "ede64ebd-7176-4004-a008-24a93f4a224c",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "16553747-2687-4056-bf5a-b99ed25a6a9a",
-        "to_id": "01f204f3-3f75-4503-ac94-95f5fc61c43f",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "103fb0cc-7272-44e4-9e6b-daf8dc60fa51",
-        "to_id": "6dacc9ed-a10e-4442-9b3d-4e0d07c057e4",
-        "type": "MARRIED_TO",
-        "date": null
-      },
-      {
-        "from_id": "ede64ebd-7176-4004-a008-24a93f4a224c",
-        "to_id": "01f204f3-3f75-4503-ac94-95f5fc61c43f",
-        "type": "MARRIED_TO",
-        "date": null
-      }
-    ]
-  },
-  {
-    "persons": [
-      {
-        "id": "d16022c3-6406-48af-a917-a655030bed3f",
-        "fullname": "Pasquale Ricci",
-        "firstname": "Pasquale",
-        "lastname": "Ricci",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "a676fcf8-d81b-4f13-9bea-7bd4addb4fff",
-        "fullname": "Agnese Iacobone",
-        "firstname": "Agnese",
-        "lastname": "Iacobone",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "1f25679d-a2de-437e-a716-5d21e6d05409",
-        "fullname": "Loreto Ricci",
-        "firstname": "Loreto",
-        "lastname": "Ricci",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "8c33d9b9-d99d-47ca-8197-7bafaa98cf8d",
-        "fullname": "Filippa Buttari",
-        "firstname": "Filippa",
-        "lastname": "Buttari",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "before 16 Dec 1821",
-        "notes": ""
-      },
-      {
-        "id": "ccd8b071-da64-4cfe-b561-e87ee5612a46",
-        "fullname": "Giuseppe Iacobone",
-        "firstname": "Giuseppe",
-        "lastname": "Iacobone",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "male",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      },
-      {
-        "id": "6c1cf989-aef9-4d58-9fcb-178ff8b86c10",
-        "fullname": "Colomba Paris",
-        "firstname": "Colomba",
-        "lastname": "Paris",
-        "alias_firstname": "",
-        "alias_lastname": "",
-        "gender": "female",
-        "location": "",
-        "deceased": "",
-        "notes": ""
-      }
-    ],
-    "relationships": [
-      {
-        "from_id": "d16022c3-6406-48af-a917-a655030bed3f",
-        "to_id": "a676fcf8-d81b-4f13-9bea-7bd4addb4fff",
-        "type": "MARRIED_TO",
-        "date": "2020-12-16 1821"
-      },
-      {
-        "from_id": "a676fcf8-d81b-4f13-9bea-7bd4addb4fff",
-        "to_id": "d16022c3-6406-48af-a917-a655030bed3f",
-        "type": "MARRIED_TO",
-        "date": "2020-12-16 1821"
-      },
-      {
-        "from_id": "d16022c3-6406-48af-a917-a655030bed3f",
-        "to_id": "1f25679d-a2de-437e-a716-5d21e6d05409",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "d16022c3-6406-48af-a917-a655030bed3f",
-        "to_id": "8c33d9b9-d99d-47ca-8197-7bafaa98cf8d",
-        "type": "SON_OF",
-        "date": null
-      },
-      {
-        "from_id": "a676fcf8-d81b-4f13-9bea-7bd4addb4fff",
-        "to_id": "ccd8b071-da64-4cfe-b561-e87ee5612a46",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "a676fcf8-d81b-4f13-9bea-7bd4addb4fff",
-        "to_id": "6c1cf989-aef9-4d58-9fcb-178ff8b86c10",
-        "type": "DAUGHTER_OF",
-        "date": null
-      },
-      {
-        "from_id": "1f25679d-a2de-437e-a716-5d21e6d05409",
-        "to_id": "8c33d9b9-d99d-47ca-8197-7bafaa98cf8d",
-        "type": "MARRIED_TO",
-        "date": null
-      },
-      {
-        "from_id": "ccd8b071-da64-4cfe-b561-e87ee5612a46",
-        "to_id": "6c1cf989-aef9-4d58-9fcb-178ff8b86c10",
+        "from_id": "5c4d5e57-a588-43e8-88a2-1e5942ee19f0",
+        "to_id": "53923859-f3b8-4313-b83f-e5a83b071016",
         "type": "MARRIED_TO",
         "date": null
       }
